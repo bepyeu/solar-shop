@@ -25,4 +25,12 @@ export const YoutubeData = [
     avatar:
       "https://plus.unsplash.com/premium_photo-1675597044994-1b04f8b3fec8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fEF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1800&q=60",
   },
+    {
+    id: 4,
+    autor: "Autor 4",
+    image:
+      "https://plus.unsplash.com/premium_photo-1675597044994-1b04f8b3fec8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fEF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1800&q=60",
+    avatar:
+      "https://plus.unsplash.com/premium_photo-1675597044994-1b04f8b3fec8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fEF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1800&q=60",
+  },
 ];
